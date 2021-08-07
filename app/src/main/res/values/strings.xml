@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="add">ADD</string>
+    <string name="pill_name">Pill Name</string>
+    <string name="portion_day">Portion / day</string>
+    <string name="quantity">Quantity</string>
+    <string name="logout">Logout</string>
+</resources>
